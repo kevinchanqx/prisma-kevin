@@ -1,0 +1,22 @@
+{
+  "name": "prisma-kevin",
+  "version": "1.0.0",
+  "description": "Tutorial Learning using Prisma",
+  "main": "index.js",
+  "scripts": {
+    "script": "nodemon script.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.8.6",
+    "nodemon": "^3.0.1",
+    "prisma": "^5.4.2",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "@prisma/client": "^5.4.2"
+  }
+}
